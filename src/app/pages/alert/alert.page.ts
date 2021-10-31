@@ -127,8 +127,8 @@ export class AlertPage {
         },
         {
           text: 'Ok',
-          handler: () => {
-            console.log('Confirm Ok');
+          handler: (data: any) => {
+            console.log(data);
           },
         },
       ],

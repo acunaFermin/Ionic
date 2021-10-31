@@ -23,5 +23,10 @@ export class InicioPage {
       name: 'alert',
       redirectTo: '/alert',
     },
+    {
+      icon: 'happy-outline',
+      name: 'Avatar',
+      redirectTo: '/avatar',
+    },
   ];
 }
