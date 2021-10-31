@@ -14,12 +14,12 @@ interface Componente {
 export class InicioPage {
   componentes: Componente[] = [
     {
-      icon: 'american-football',
+      icon: 'construct-outline',
       name: 'action sheet',
       redirectTo: '/action-sheet',
     },
     {
-      icon: 'american-football',
+      icon: 'diamond-outline',
       name: 'alert',
       redirectTo: '/alert',
     },
