@@ -28,5 +28,10 @@ export class InicioPage {
       name: 'Avatar',
       redirectTo: '/avatar',
     },
+    {
+      icon: 'keypad-outline',
+      name: 'Buttons',
+      redirectTo: '/button',
+    },
   ];
 }

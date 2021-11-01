@@ -15,7 +15,7 @@ export class AlertPage {
       header: 'Alert',
       backdropDismiss: false,
       subHeader: 'Subtitle',
-      message: 'Por que no te tocas el orto',
+      message: 'Hola que tal',
       buttons: ['OK'],
     });
 
